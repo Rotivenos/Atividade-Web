@@ -1,25 +1,25 @@
 {
-    "produto": [
+    "pedidos":[
         {
-            "id": 1,
-            "nome": "Camisa Polo",
-            "preco": 59.99,
-            "descricao": "Camisa polo azul",
-            "imagem": "XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX"
+            "id": "105",
+            "produto": "Eletrônicos",
+            "quantidade": 50,
+            "destino": "São Paulo, SP",
+            "dataPedido": "2024-06-15"
         },
         {
-            "id": 2,
-            "nome": "Camisa Social",
-            "preco": 79.99,
-            "descricao": "Camisa social preta",
-            "imagem": "XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX"
+            "id": "107",
+            "produto": "Pedras",
+            "quantidade": 200,
+            "destino": "Rio de Janeiro, RJ",
+            "dataPedido": "2024-06-16"
         },
         {
-            "id": 3,
-            "nome": "Camisa Regata",
-            "preco": 49.99,
-            "descricao": "Camisa regata branca",
-            "imagem": "XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX"
+            "id": "109",
+            "produto": "Mantimentos",
+            "quantidade": 100,
+            "destino": "Belo Horizonte, MG",
+            "dataPedido": "2024-06-17"
         }
     ]
 }
