@@ -1,0 +1,25 @@
+{
+    "produto": [
+        {
+            "id": 1,
+            "nome": "Camisa Polo",
+            "preco": 59.99,
+            "descricao": "Camisa polo azul",
+            "imagem": "XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX"
+        },
+        {
+            "id": 2,
+            "nome": "Camisa Social",
+            "preco": 79.99,
+            "descricao": "Camisa social preta",
+            "imagem": "XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX"
+        },
+        {
+            "id": 3,
+            "nome": "Camisa Regata",
+            "preco": 49.99,
+            "descricao": "Camisa regata branca",
+            "imagem": "XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX"
+        }
+    ]
+}
